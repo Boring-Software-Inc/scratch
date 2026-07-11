@@ -1,0 +1,3 @@
+# support the project
+eth: 0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B
+btc: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq
