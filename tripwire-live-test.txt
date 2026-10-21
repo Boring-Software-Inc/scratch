@@ -1,0 +1,2 @@
+tripwire live test file. fake, harmless.
+send airdrop to 0x000000000000000000000000000000000000dEaD
