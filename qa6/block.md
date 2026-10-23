@@ -1,1 +1,1 @@
-Donations: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq
+Donations: see the sponsors page.
