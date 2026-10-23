@@ -1,2 +1,1 @@
-Fast push test.
-ETH: 0x52908400098527886E0F7030069857D2E4169EE7
+Fast push test, no address.
