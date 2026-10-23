@@ -1,1 +1,1 @@
-A short note about the setup steps for new readers. Third line.
+A short note about the setup steps for new readers.
