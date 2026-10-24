@@ -9,5 +9,3 @@ node hello.js
 ```
 
 It prints `hello world`.
-
-Donations: ETH 0x52908400098527886E0F7030069857D2E4169EE7
